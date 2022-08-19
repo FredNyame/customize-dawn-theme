@@ -2272,7 +2272,7 @@ input[type='checkbox'] {
 
   .header--middle-left {
     grid-template-areas: 'heading navigation icons';
-    grid-template-columns: auto auto 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     column-gap: 2rem;
   }
 
@@ -2630,6 +2630,7 @@ details[open]>.header__submenu {
 
   .header--middle-left .header__inline-menu {
     margin-left: 0;
+    text-align: center;
   }
 }
 
