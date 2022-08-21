@@ -1,7 +1,7 @@
 {
     "sections": {
         "main": {
-            "type": "fake-section"
+            "type": "collection-showcase"
         }
     },
     "order": [
