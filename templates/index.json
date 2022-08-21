@@ -210,7 +210,7 @@
       }
     },
     "fake": {
-      "type": "fake-section"
+      "type": "collection-showcase"
     }
   },
   "order": [
@@ -220,6 +220,6 @@
     "collage",
     "video",
     "multicolumn",
-    "fake"
+    "collection-showcase"
   ]
 }
