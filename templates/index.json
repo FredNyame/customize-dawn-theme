@@ -210,7 +210,9 @@
       }
     },
     "collection-showcase": {
-      "type": "collection-showcase"
+      "type": "collection-showcase",
+      "settings": {
+      }
     }
   },
   "order": [
