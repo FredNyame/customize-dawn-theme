@@ -209,7 +209,7 @@
         "padding_bottom": 36
       }
     },
-    "showcase": {
+    "fake": {
       "type": "collection-showcase"
     }
   },
@@ -220,6 +220,6 @@
     "collage",
     "video",
     "multicolumn",
-    "showcase"
+    "fake"
   ]
 }
