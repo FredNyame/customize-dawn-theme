@@ -218,50 +218,69 @@
     "collection-showcase": {
       "type": "collection-showcase",
       "blocks": {
+        "f75c3257-03dd-47a2-9ba6-0718e6971fa8": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "men"
+          }
+        },
         "9a37dcdd-4932-49ea-a0cf-141eea27a427": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "adidas"
           }
         },
         "da6f5790-b5cb-4a68-a96e-41d5fad1737b": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "dr-martens"
           }
         },
         "0534f5d0-d294-4a92-a8fc-b29de00df9f5": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "asics-tiger"
           }
         },
         "41d56e00-5362-42f1-b14e-a6ac99403669": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "flex-fit"
           }
         },
         "dc847e57-6cd0-45b8-b5cd-73e25cc450e3": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "converse"
           }
         },
-        "f75c3257-03dd-47a2-9ba6-0718e6971fa8": {
+        "95b3da4a-f342-41d3-93e7-fae3530d20aa": {
           "type": "featured_collection",
           "settings": {
-            "collection": "men"
+            "collection": "kid"
+          }
+        },
+        "50c092a5-fee0-47e6-9a6d-77b7dfa11e7e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women"
           }
         }
       },
       "block_order": [
+        "f75c3257-03dd-47a2-9ba6-0718e6971fa8",
         "9a37dcdd-4932-49ea-a0cf-141eea27a427",
         "da6f5790-b5cb-4a68-a96e-41d5fad1737b",
         "0534f5d0-d294-4a92-a8fc-b29de00df9f5",
         "41d56e00-5362-42f1-b14e-a6ac99403669",
         "dc847e57-6cd0-45b8-b5cd-73e25cc450e3",
-        "f75c3257-03dd-47a2-9ba6-0718e6971fa8"
+        "95b3da4a-f342-41d3-93e7-fae3530d20aa",
+        "50c092a5-fee0-47e6-9a6d-77b7dfa11e7e"
       ],
       "settings": {
         "title": "Collections",
