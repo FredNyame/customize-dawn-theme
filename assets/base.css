@@ -2249,6 +2249,12 @@ input[type='checkbox'] {
   background-color: rgb(var(--color-background));
 }
 
+.header-wrapper.glassify {
+  background-color: rgba(var(--color-background), 0.75);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+
 .header-wrapper--border-bottom {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
 }
