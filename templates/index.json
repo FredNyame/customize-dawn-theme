@@ -285,7 +285,7 @@
       ],
       "settings": {
         "title": "Collections",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
         "color_scheme": "background-1",
@@ -298,7 +298,6 @@
     },
     "166121042769e59dd7": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "166121042605f959fa-0": {
           "type": "featured_collection",
