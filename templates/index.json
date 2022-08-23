@@ -35,6 +35,8 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-08-01_at_10.15.17_PM.jpg",
+        "image_2": "shopify:\/\/shop_images\/WhatsApp_Image_2022-08-01_at_10.12.04_PM_2.jpg",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "adapt_height_first_image": false,
