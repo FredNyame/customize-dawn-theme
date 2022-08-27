@@ -275,7 +275,7 @@
     },
     "collection_template": {
       "empty": "No products found",
-      "title": "Collection",
+      "title": "Shop",
       "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">remove all<\/a>"
     },
     "video": {
