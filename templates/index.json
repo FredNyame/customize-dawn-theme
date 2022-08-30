@@ -84,7 +84,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "New Arrivals",
+        "title": "NEW ARRIVALS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -284,7 +284,7 @@
         "50c092a5-fee0-47e6-9a6d-77b7dfa11e7e"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "COLLECTIONS",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
