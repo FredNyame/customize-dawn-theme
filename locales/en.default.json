@@ -230,7 +230,7 @@
       }
     },
     "cart": {
-      "title": "Your cart",
+      "title": "SHOPPING CART",
       "caption": "Cart items",
       "remove_title": "Remove {{ title }}",
       "subtotal": "Subtotal",
@@ -275,7 +275,7 @@
     },
     "collection_template": {
       "empty": "No products found",
-      "title": "Shop",
+      "title": "ALL PRODUCTS",
       "use_fewer_filters_html": "Use fewer filters or <a class=\"{{ class }}\" href=\"{{ link }}\">remove all<\/a>"
     },
     "video": {
