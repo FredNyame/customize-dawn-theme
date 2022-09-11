@@ -263,13 +263,13 @@
         "95b3da4a-f342-41d3-93e7-fae3530d20aa": {
           "type": "featured_collection",
           "settings": {
-            "collection": "kid"
+            "collection": "kids"
           }
         },
         "50c092a5-fee0-47e6-9a6d-77b7dfa11e7e": {
           "type": "featured_collection",
           "settings": {
-            "collection": "women"
+            "collection": "moms"
           }
         }
       },
