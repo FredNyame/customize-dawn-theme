@@ -9,7 +9,7 @@
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#ffffff",
     "gradient_background_1": "",
-    "colors_background_2": "#b57f50",
+    "colors_background_2": "#da9e69",
     "gradient_background_2": "",
     "type_header_font": "open_sans_n7",
     "heading_scale": 100,
@@ -143,7 +143,7 @@
         "settings": {
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/new-logo-untrim-copy.png",
-          "logo_width": 130,
+          "logo_width": 180,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
