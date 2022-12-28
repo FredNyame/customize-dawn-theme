@@ -9,11 +9,11 @@
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#ffffff",
     "gradient_background_1": "",
-    "colors_background_2": "#f07139",
+    "colors_background_2": "#e5ba95",
     "gradient_background_2": "",
-    "type_header_font": "open_sans_n7",
+    "type_header_font": "helvetica_n7",
     "heading_scale": 100,
-    "type_body_font": "helvetica_n4",
+    "type_body_font": "inter_n4",
     "body_scale": 100,
     "page_width": 1400,
     "spacing_sections": 0,
@@ -142,17 +142,17 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/logo.png",
-          "logo_width": 130,
+          "logo": "shopify:\/\/shop_images\/juju-lily-logo.png",
+          "logo_width": 180,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
-          "show_line_separator": true,
+          "show_line_separator": false,
           "enable_sticky_header": true,
           "mobile_logo_position": "center",
           "margin_bottom": 0,
-          "padding_top": 20,
-          "padding_bottom": 20
+          "padding_top": 16,
+          "padding_bottom": 16
         }
       },
       "footer": {
