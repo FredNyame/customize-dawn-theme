@@ -38,8 +38,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-08-01_at_10.15.17_PM.jpg",
         "image_2": "shopify:\/\/shop_images\/WhatsApp_Image_2022-08-01_at_10.12.04_PM_2.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "medium",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
